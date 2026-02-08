@@ -9,19 +9,19 @@ LinkedIn: https://www.linkedin.com/in/faisal-analyst/
 
 ## Overview
 
-This repository contains a collection of **end-to-end Power BI projects** designed to deliver **executive-level, data-driven business insights** across multiple domains including **Corporate Sales, Finance, Supply Chain, Hospitality Management, and Human Resources**.
+This repository contains a collection of **enterprise-level Power BI dashboards** designed to deliver **actionable, decision-ready insights** across Sales, Finance, Supply Chain, Hospitality, and Human Resources domains.
 
-The dashboards demonstrate strong proficiency in **data modeling, DAX, KPI design, and interactive visual storytelling**, aligned with real-world enterprise use cases.
+The projects demonstrate strong expertise in **data modeling, DAX, KPI design, benchmarking, and executive reporting**, following real-world business and stakeholder requirements.
 
 ---
 
 ## Tools & Technologies
 
 - Power BI Desktop  
-- DAX (Data Analysis Expressions)  
+- DAX (Measures, KPIs, Time Intelligence)  
 - Data Modeling & Relationships  
-- KPI & Executive Reporting  
-- Interactive Dashboards  
+- Executive & Operational Dashboards  
+- Interactive Visual Storytelling  
 
 ---
 
@@ -29,74 +29,91 @@ The dashboards demonstrate strong proficiency in **data modeling, DAX, KPI desig
 
 ---
 
-## 1. Dell Business Insight 360 Dashboard
+## 1. Dell Business Insight 360 – Version 1 (Original Design)
 
 **Domain:** Sales, Finance, Marketing & Supply Chain Analytics  
 
 ### Objective
-To provide a **360-degree business performance view** enabling leadership to track financial health, sales trends, customer performance, and supply chain efficiency.
+To provide a **360-degree business performance view** enabling stakeholders to analyze financial results, sales trends, customer performance, and supply chain efficiency.
 
 ### Key Features
-- Executive KPIs: Net Sales, Gross Margin %, Net Profit %, Forecast Accuracy  
-- Profit & Loss statement with cost and margin analysis  
-- Region-wise and customer-wise sales performance  
-- Product and category contribution analysis  
-- Supply chain forecasting accuracy and risk monitoring  
-- Interactive benchmarking (vs Last Year, vs Target)
+- Net Sales, Gross Margin %, Net Profit %, Forecast Accuracy KPIs  
+- Profit & Loss statement with cost breakdown  
+- Region-wise and customer-wise sales analysis  
+- Product and category contribution insights  
+- Supply chain forecasting accuracy and risk indicators  
+- Benchmarking vs Last Year and vs Target  
 
-### Power BI File
-🔗 **View Power BI Project:**  
-https://github.com/Faisalshahzad03/power-bi-enterprise-analytics-dashboards/tree/main/Dell-Business-Insight-360
+### Power BI File (Version 1)
+🔗 https://github.com/Faisalshahzad03/power-bi-enterprise-analytics-dashboards/tree/main/Dell-Business-Insight-360/V1-Original-Design
 
 ---
 
-## 2. Hospitality Management Analytics Dashboard
+## 2. Dell Business Insight 360 – Version 2 (Enhanced Design)
+
+**Domain:** Sales, Finance, Marketing & Supply Chain Analytics  
+
+### Objective
+To deliver an **enhanced executive experience** with improved layout, storytelling, navigation, and stakeholder-focused insights.
+
+### Key Enhancements
+- Redesigned home navigation and page structure  
+- Improved KPI placement and visual hierarchy  
+- Enhanced performance matrices and trend analysis  
+- Advanced forecast accuracy and error tracking  
+- Clear executive summary for leadership decision-making  
+- Optimized visuals for usability and performance  
+
+### Power BI File (Version 2 – New Design)
+🔗 https://github.com/Faisalshahzad03/power-bi-enterprise-analytics-dashboards/tree/main/Dell-Business-Insight-360/V2-New-Design
+
+---
+
+## 3. Hospitality Management Analytics Dashboard
 
 **Domain:** Hospitality & Revenue Management  
 
 ### Objective
-To analyze hotel performance across **cities, properties, room classes, and booking platforms** to support revenue optimization and operational decision-making.
+To analyze hotel performance across **cities, properties, room classes, and booking platforms**, supporting revenue optimization and operational planning.
 
 ### Key Features
-- Revenue, Occupancy %, Cancellation Rate, and Average Rating KPIs  
-- City-wise and property-wise performance insights  
-- Weekday vs Weekend booking analysis  
-- Room class revenue contribution  
-- Booking source and customer behavior trends  
-- Weekly performance trends for key metrics  
+- Revenue, Occupancy %, Cancellation Rate, Average Rating KPIs  
+- City-wise and property-wise performance analysis  
+- Weekday vs Weekend booking comparison  
+- Room class revenue contribution (Elite, Premium, Presidential, Standard)  
+- Booking source analysis and customer behavior insights  
+- Weekly trend analysis for key metrics  
 
 ### Power BI File
-🔗 **View Power BI Project:**  
-https://github.com/Faisalshahzad03/power-bi-enterprise-analytics-dashboards/tree/main/Hospitality-Management-Analytics
+🔗 https://github.com/Faisalshahzad03/power-bi-enterprise-analytics-dashboards/tree/main/Hospitality-Management-Analytics
 
 ---
 
-## 3. HR Analytics Dashboard
+## 4. HR Analytics Dashboard
 
 **Domain:** Human Resources & Workforce Analytics  
 
 ### Objective
-To analyze employee attrition and workforce metrics to support **HR strategy and retention planning**.
+To identify **employee attrition patterns and workforce trends** to support HR strategy and retention planning.
 
 ### Key Features
-- Overall employee count, attrition count, and attrition rate  
+- Total employees, attrition count, and attrition rate  
 - Attrition analysis by age, gender, education, and salary slab  
-- Job role and department-wise attrition trends  
-- Year-at-company attrition analysis  
+- Job role and department-wise attrition insights  
+- Year-at-company attrition trend analysis  
 - Identification of high-risk attrition segments  
 
 ### Power BI File
-🔗 **View Power BI Project:**  
-https://github.com/Faisalshahzad03/power-bi-enterprise-analytics-dashboards/tree/main/HR-Analytics-Dashboard
+🔗 https://github.com/Faisalshahzad03/power-bi-enterprise-analytics-dashboards/tree/main/HR-Analytics-Dashboard
 
 ---
 
 ## Key Takeaways
 
-- Designed **enterprise-ready dashboards** aligned with real-world business needs  
-- Strong focus on **decision-oriented analytics**, not just reporting  
-- Demonstrates expertise in **Power BI, DAX, and business intelligence**  
-- Suitable for **executive, operational, and strategic stakeholders**
+- Built **enterprise-ready Power BI solutions** aligned with business goals  
+- Strong focus on **executive storytelling and KPI-driven insights**  
+- Demonstrates real-world **stakeholder-based dashboard design**  
+- Highlights expertise in **Power BI, DAX, and Business Intelligence**
 
 ---
 
@@ -104,5 +121,5 @@ https://github.com/Faisalshahzad03/power-bi-enterprise-analytics-dashboards/tree
 
 For collaboration, feedback, or analytics opportunities:
 
-Email: faisal843210@gmail.com  
-LinkedIn: https://www.linkedin.com/in/faisal-analyst/
+📧 faisal843210@gmail.com  
+🔗 https://www.linkedin.com/in/faisal-analyst/
