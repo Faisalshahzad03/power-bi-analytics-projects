@@ -42,7 +42,10 @@ To provide a **360-degree business performance view** enabling stakeholders to a
 - Region-wise and customer-wise sales analysis  
 - Product and category contribution insights  
 - Supply chain forecasting accuracy and risk indicators  
-- Benchmarking vs Last Year and vs Target  
+- Benchmarking vs Last Year and vs Target
+
+-  ### Live Power BI Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiZTY0OTI5ZjctOTFlYS00M2YyLTgxMjQtYzgyZjg1ODJkZmE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ### Power BI File (Version 1)
 🔗 https://github.com/Faisalshahzad03/power-bi-enterprise-analytics-dashboards/tree/main/Dell-Business-Insight-360/V1-Original-Design
@@ -62,7 +65,10 @@ To deliver an **enhanced executive experience** with improved layout, storytelli
 - Enhanced performance matrices and trend analysis  
 - Advanced forecast accuracy and error tracking  
 - Clear executive summary for leadership decision-making  
-- Optimized visuals for usability and performance  
+- Optimized visuals for usability and performance
+
+-  ### Live Power BI Dashboard
+    https://app.powerbi.com/view?r=eyJrIjoiNzU0ZDQ1ZWItYzQ0Yy00YjgxLTljOTQtZmEzY2QxZjY5MGM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ### Power BI File (Version 2 – New Design)
 🔗 https://github.com/Faisalshahzad03/power-bi-enterprise-analytics-dashboards/tree/main/Dell-Business-Insight-360/V2-New-Design
@@ -82,8 +88,11 @@ To analyze hotel performance across **cities, properties, room classes, and book
 - Weekday vs Weekend booking comparison  
 - Room class revenue contribution (Elite, Premium, Presidential, Standard)  
 - Booking source analysis and customer behavior insights  
-- Weekly trend analysis for key metrics  
-
+- Weekly trend analysis for key metrics
+- 
+- ### Live Power BI Dashboard
+  https://app.powerbi.com/view?r=eyJrIjoiZjc3YTA5ZGEtNDBiMy00YjNlLWIwNmQtZmRjZTRmMmZjYTQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+  
 ### Power BI File
 🔗 https://github.com/Faisalshahzad03/power-bi-enterprise-analytics-dashboards/tree/main/Hospitality-Management-Analytics
 
@@ -101,8 +110,11 @@ To identify **employee attrition patterns and workforce trends** to support HR s
 - Attrition analysis by age, gender, education, and salary slab  
 - Job role and department-wise attrition insights  
 - Year-at-company attrition trend analysis  
-- Identification of high-risk attrition segments  
-
+- Identification of high-risk attrition segments
+- 
+- ### Live Power BI Dashboard
+  https://app.powerbi.com/view?r=eyJrIjoiNDZlNDJkMzgtNWEwMS00YTkwLWIyNjYtNWFhN2RjZDVlNTFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+  
 ### Power BI File
 🔗 https://github.com/Faisalshahzad03/power-bi-enterprise-analytics-dashboards/tree/main/HR-Analytics-Dashboard
 
@@ -114,6 +126,43 @@ To identify **employee attrition patterns and workforce trends** to support HR s
 - Strong focus on **executive storytelling and KPI-driven insights**  
 - Demonstrates real-world **stakeholder-based dashboard design**  
 - Highlights expertise in **Power BI, DAX, and Business Intelligence**
+
+- ## 5. Apple (iPhone) Supply Chain & Business Performance Dashboard
+
+**Domain:** Sales, Supply Chain, Inventory & Logistics Analytics  
+
+### Objective
+To analyze **Apple (iPhone & related products)** end-to-end business operations, providing **data-driven insights** across sales performance, supplier efficiency, production, inventory management, and shipment logistics to support better business decision-making.
+
+### Key Features
+- Executive overview with Revenue, Profit, Discount %, and Perfect Order KPIs  
+- Product-wise and country-wise sales and profitability analysis  
+- Supplier performance insights including lead time and contribution metrics  
+- Production analysis covering unit cost, defect rate, and quantity produced  
+- Inventory management analysis with inventory value, safety stock, and reorder points  
+- Shipment and logistics performance including delivered vs delayed shipments  
+- Customer and sales channel analysis to identify growth opportunities  
+
+### Learning Outcomes
+- Designed interactive, business-focused Power BI dashboards  
+- Built optimized data models with strong relationships  
+- Created DAX measures for KPIs, performance metrics, and trend analysis  
+- Applied supply chain and inventory analytics concepts  
+- Transformed raw data into clear, actionable business insights  
+
+### Tools & Skills Used
+- Power BI Desktop  
+- DAX (Measures & Calculations)  
+- Data Modeling & Relationships  
+- Supply Chain & Inventory Analytics  
+- Sales & Business Performance Analysis  
+- Dashboard Design & Visual Storytelling  
+
+### Live Power BI Dashboard
+🔗 https://app.powerbi.com/view?r=eyJrIjoiYzM1NTAwZWItNzM1Mi00YWNjLWJjY2YtMDcyYTQxYzI0M2RlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+### GitHub Project Files
+🔗 https://github.com/Faisalshahzad03/power-bi-analytics-projects/blob/main/Apple%20(iPhone)%20Supply%20Chain%20%26%20Business%20Performance%20Dashboard%20%20Power%20BI.pdf
 
 ---
 
